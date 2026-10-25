@@ -1,0 +1,4 @@
+adb
+python
+pip
+Pillow

@@ -1,0 +1,15 @@
+{
+  "name": "mcp-phone-use",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "MCP phone-use: Android ADB control — screenshot, tap/click, type, keys (real keystrokes via a virtual HID keyboard)",
+  "license": "MIT",
+  "author": "Mike Smullin <mike@smullindesign.com>",
+  "bin": {
+    "mcp-phone-use": "./server.coffee"
+  },
+  "dependencies": {
+    "bun-coffeescript": "^1.0.3"
+  }
+}
